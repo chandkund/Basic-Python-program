@@ -1,21 +1,49 @@
 # Basic-Python-program
 This project is a collection of basic Python programs for learning and reference purposes.
 ## Files
-- [WAP FOR TOPOLOGICAL SORT](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/45.WAP%20FOR%20TOPOLOGICAL%20SORT.ipynb)
+
 - [Addition](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Addition.ipynb)
-- [Check Armstrong Number](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Check%20Armstrong%20Number.ipynb)
-- [Check whether a number is Prime or not](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Check%20whether%20a%20number%20is%20Prime%20or%20not.ipynb)
-- [Cube sum of first n natural numbers](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Cube%20sum%20of%20first%20n%20natural%20numbers.ipynb)
-- [Factorial](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Factorial.ipynb)
-- [Find area of a circle](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20area%20of%20a%20circle.ipynb)
-- [Find compound interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20compound%20interest.ipynb)
-- [Find simple interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20simple%20interest.ipynb)
-- [Find sum of array](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20sum%20of%20array.ipynb)
-- [Interchange first and last elements in a list](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Interchange%20first%20and%20last%20elements%20in%20a%20list.ipynb)
+  
 - [Maximum_of_two](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Maximum_of_two.ipynb)
-- [Nth multiple of a number in Fibonacci Series](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Nth%20multiple%20of%20a%20number%20in%20Fibonacci%20Series.ipynb)
+
+- [Factorial](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Factorial.ipynb)
+
+- [Find simple interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20simple%20interest.ipynb)
+
+- [Find compound interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20compound%20interest.ipynb)
+
+- [Check Armstrong Number](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Check%20Armstrong%20Number.ipynb)
+
+- [Find area of a circle](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20area%20of%20a%20circle.ipynb)
+
 - [Print all Prime numbers in an Interval](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Print%20all%20Prime%20numbers%20in%20an%20Interval.ipynb)
+
+- [Check whether a number is Prime or not](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Check%20whether%20a%20number%20is%20Prime%20or%20not.ipynb)
+
+- [Nth multiple of a number in Fibonacci Series](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Nth%20multiple%20of%20a%20number%20in%20Fibonacci%20Series.ipynb)
+
+- [print ASCII Value of a character](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/print%20ASCII%20Value%20of%20a%20character.ipynb)
+  
+- [WAP FOR TOPOLOGICAL SORT](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/45.WAP%20FOR%20TOPOLOGICAL%20SORT.ipynb)
+
 - [Sum of squares of first n natural numbers](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Sum%20of%20squares%20of%20first%20n%20natural%20numbers.ipynb)
+
+- [Cube sum of first n natural numbers](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Cube%20sum%20of%20first%20n%20natural%20numbers.ipynb)
+
+- [Find sum of array](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20sum%20of%20array.ipynb)
+
+
+  
+
+
+
+
+
+- [Interchange first and last elements in a list](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Interchange%20first%20and%20last%20elements%20in%20a%20list.ipynb)
+
+
+
+
 - [WAP FOR HEAP SORT](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/WAP%20%20FOR%20HEAP%20SORT.ipynb)
 - [WAP FOR QUICK SORT](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/WAP%20%20FOR%20QUICK%20SORT..ipynb)
 - [WAP TO CHECK IF A SUBSTRING IS PRESENT IN A STRING](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/WAP%20%20TO%20CHECK%20IF%20A%20SUBSTRING%20IS%20PRESENT%20IN%20A%20STRING..ipynb)
@@ -42,7 +70,7 @@ This project is a collection of basic Python programs for learning and reference
 - [WAP to adding and subtracting two matrix](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/WAP%20to%20adding%20and%20subtracting%20two%20matrix..ipynb)
 - [WAP to find the size of a Tuple](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/WAP%20to%20find%20the%20size%20of%20a%20Tuple..ipynb)
 - [WAP to multiply two matrix](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/WAP%20to%20multiply%20two%20matrix..ipynb)
-- [print ASCII Value of a character](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/print%20ASCII%20Value%20of%20a%20character.ipynb)
+
 
   ## Getting Started
 
