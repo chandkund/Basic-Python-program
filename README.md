@@ -8,7 +8,7 @@ This project is a collection of basic Python programs for learning and reference
 
 - [Factorial](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Factorial.ipynb)         
  
-- [Find simple interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20simple%20interest.ipynb)            
+- [Find simple interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20simple%20interest.ipynb)             
  
 - [Find compound interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20compound%20interest.ipynb) 
 
