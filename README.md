@@ -13,7 +13,7 @@ This project is a collection of basic Python programs for learning and reference
 - [Find compound interest](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20compound%20interest.ipynb) 
 
 - [Check Armstrong Number](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Check%20Armstrong%20Number.ipynb)   
-
+  
 - [Find area of a circle](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Find%20area%20of%20a%20circle.ipynb)
 
 - [Print all Prime numbers in an Interval](https://github.com/chandkund/Basic-Python-program/blob/main/Basic%20Python%20program/Print%20all%20Prime%20numbers%20in%20an%20Interval.ipynb)
